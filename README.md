@@ -9,7 +9,7 @@
 #### How does someone run your program?
  
     Before running the code, the libraries pygame and pandas need to be installed.
-    You can simply run the code from VS Code / Or run it in cmd using python3
+    The program can simply be ran from the terminal by calling the main.py file, or from VS Code.
  
 #### What purpose does your program serve?
  
