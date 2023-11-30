@@ -18,4 +18,4 @@
 #### What would be some sample input/output?
     The output for this exploration will be a tetris game for 2 players to compete against each other
     Example output:
-    ![image](https://github.com/CS2613-FA23/explorationactivity2-namneeeet/assets/144265755/c58f5bf3-65fb-4b8a-8f7f-0227e273ebaf)
+    ![image](https://github.com/CS2613-FA23/explorationactivity2-namneeeet/assets/144265755/66d00373-4a09-413c-9fa6-cfab1edde4c9)
