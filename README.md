@@ -13,7 +13,7 @@
  
 #### What purpose does your program serve?
  
-    The program creates a simple game using image and color. The game is tetris and it'll utilize the pandas library for the scoring system.
+    The program creates a simple game (tetris) using various functionalities from pygame. The game also utilizes the pandas library for the scoring system.
  
 #### What would be some sample input/output?
     The output for this exploration will be a tetris game for 2 players to compete against each other
